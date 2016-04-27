@@ -1,0 +1,13 @@
+# Unreal Generated Files
+*/Build/
+*/Binaries/
+*/DerivedDataCache/
+*/Intermediate/
+*/Saved/
+03_BuildingEscape/BuildingEscape/Content/StarterContent/
+
+# Visual Studio Generated Files
+*.VC.db
+03_BuildingEscape/BuildingEscape/Intermediate/
+03_BuildingEscape/BuildingEscape/Saved/
+03_BuildingEscape/BuildingEscape/Build/
